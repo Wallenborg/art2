@@ -8,3 +8,4 @@ associated with plant life and verdant symbolism. "No Love Lost in the Garden of
 and tribute to the aesthetics of early internet culture, particularly the unsophisticated yet charming GIF animations 
 that once proliferated online. Visitors are invited to meander through this digital terrain by simply scrolling through the webpage. 
 ( The GIFs are randomly placed on the web page )
+http://www.niklaswallenborg.com/nolovelost.html
