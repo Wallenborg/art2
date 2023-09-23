@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+  background-color: rgba(0, 255, 0, 0.132);
+}
+
+.container {
+  width: 4000px;
+  height: 4000px;
+  padding: 50px;
+  margin: 0 auto;
+  overflow: auto;
+}
+
+.container img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 10px;
+}
+
+/* Responsivitet */
+@media (max-width: 768px) {
+  .container {
+    width: 100%;
+    height: auto;
+  }
+
+  .container img {
+    max-width: 100%;
+    height: auto;
+  }
+}
